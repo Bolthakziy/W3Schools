@@ -1,0 +1,21 @@
+body
+{
+	background-color:powderblue;
+}
+
+h1
+{
+	color:yellow;
+	font-family:courier;
+	font-size:160%;
+	border:2px solid red;
+	padding:30px;
+	margin:50px;
+}
+
+p
+{
+	color:blue;
+	font-family:verdana;
+	font-size:300%
+}
