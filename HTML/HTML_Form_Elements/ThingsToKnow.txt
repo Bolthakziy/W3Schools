@@ -1,0 +1,1 @@
+When you write sentence 'alert', in 'alert', you should use ' instead of " to write a sentence.
