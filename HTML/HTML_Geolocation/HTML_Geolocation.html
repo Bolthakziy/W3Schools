@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>Get the geological location!</h1>
+		<button onclick="getLocation()">Click!</button>
+		<p id="Kanin"></p>
+		<script>
+			const x = document.getElementById("Kanin");
+
+			function getLocation()
+			{
+				if (navigator.geolocation) {
+					navigator.geolocation.getCurrentPosition(success, error);
+				} else {
+					x.innerHTML = "Geolocation is not supported....";
+				}
+			}
+
+			function success(position)
+			{
+				x.innerHTML = "Latitude : " + position.coords.latitude + "<br>Longitude : " + position.coords.longitude;
+			}
+
+			function error()
+			{
+				alert("Unfortunately no position availabe....");
+			}
+		</script>
+	</body>
+</html>
