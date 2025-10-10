@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div id="Kanin"></div>
+		<script>
+			const x = document.getElementById("Kanin");
+
+			if (typeof(Storage) !== "undefined") {
+				localStorage.setItem("Navn", "Hanna And");
+				localStorage.setItem("bgcolor", "yellow");
+				x.innerHTML = localStorage.getItem("Navn");
+				x.style.backgroundColor = localStorage.getItem("bgcolor");
+			} else {
+				x.innerHTML = "Unnskyld....";
+			}
+
+		</script>
+	</body>
+</html>
