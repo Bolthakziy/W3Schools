@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>Second Timer</h1>
+		<p>Second : <output id="Kanin"></output></p>
+		<button onclick="startWorker()">Starting</button>
+		<button onclick="stopWorker()">Stopping</button>
+
+		<script>
+			let w;
+
+			function startWorker()
+			{
+				const x = document.getElementById("Kanin");
+
+				if (typeof(Worker) !== "undefined") {
+					if (typeof(w) == "undefined") {
+						w = new Worker("secondTimer.js");
+					} else {
+
+					}
+
+					w.onmessage = function(event) {
+						x.innerHTML = event.data;
+					};
+				} else {
+					x.innerHTML = "It is impossible to support....";
+				}
+			}
+
+			function stopWorker()
+			{
+				w.terminate();
+				w = undefined;
+			}
+		</script>
+	</body>
+</html>
