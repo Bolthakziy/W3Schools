@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>Server Updates</h1>
+		<div id="Kanin"></div>
+		<script>
+			const x = document.getElementById("Kanin");
+
+			if (typeof(EventSource) !== "undefined") {
+				var source = new EventSource("And_SSE.php");
+				source.onmessage = function(event) {
+					x.innerHTML += event.data + "<br>";
+				};
+			} else {
+				x.innerHTML = "The Server-Sent Events are not supported....";
+			}
+		</script>
+	</body>
+</html>
