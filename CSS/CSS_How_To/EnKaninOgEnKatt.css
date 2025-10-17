@@ -1,0 +1,16 @@
+body
+{
+	background-color : lightgreen;
+}
+
+h1
+{
+	color : grey;
+	margin-left : 20px;
+}
+
+p
+{
+	color : blue;
+	margin-right : 30px;
+}
