@@ -1,0 +1,19 @@
+/* Body */
+body
+{
+	background-color : yellow;
+}
+
+/* H1 */
+h1
+{
+	color : blue;
+	margin-right : 30px;
+}
+
+/* P */
+p
+{
+	color : green;
+	margin-right : 25px;
+}
