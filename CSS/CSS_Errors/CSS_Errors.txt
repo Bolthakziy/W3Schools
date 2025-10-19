@@ -1,0 +1,9 @@
+1. Missing Semicolons
+
+2. Invalid Property Name
+
+3. Invalid Values
+
+4. Unclosed Braces
+
+5. Extra Colons or Braces
