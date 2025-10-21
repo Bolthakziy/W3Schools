@@ -1,0 +1,14 @@
+p.dotted
+{
+	border-style : dotted;
+}
+
+p.dashed
+{
+	border-style : dashed;
+}
+
+p.groove
+{
+	border-style : groove;
+}
