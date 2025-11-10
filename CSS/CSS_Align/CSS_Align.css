@@ -1,0 +1,7 @@
+.Venner
+{
+	display : grid;
+	place-items : center;
+	height : 200px;
+	border : 3px solid blue;
+}
