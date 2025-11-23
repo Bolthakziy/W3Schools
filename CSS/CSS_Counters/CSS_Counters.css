@@ -1,0 +1,10 @@
+body
+{
+	counter-reset:section;
+}
+
+h1::before
+{
+	counter-increment:section -1;
+	content:"Venn " counter(section) ": ";
+}
