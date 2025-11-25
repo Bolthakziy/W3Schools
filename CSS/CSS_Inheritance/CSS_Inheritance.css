@@ -1,0 +1,9 @@
+p
+{
+	border:1px solid red;
+}
+
+strong
+{
+	border:inherit;
+}
