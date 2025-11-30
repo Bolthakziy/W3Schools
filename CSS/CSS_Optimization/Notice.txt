@@ -1,0 +1,17 @@
+1. Use simple selectors!
+
+2. Avoid universal selectors(such as '*', .....) for styling.
+
+3. Avoid inline styles!
+
+4. Avoid '@import'!
+
+5. Use shorthand properties!
+
+6. Cut down unnecessary animations!
+
+7. Use properties that not cause repaint of animations!
+
+8. Combine and minify 'CSS'!
+
+9. Cache your 'CSS'!
