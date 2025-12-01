@@ -1,0 +1,11 @@
+1. Provide High Color Contrast.
+
+2. Provide Good Font, Font Size and Line Height.
+
+3. Have Visible Focus Indicators.
+
+4. Avoid Hiding Focus.
+
+5. Use 'CSS + Semantic HTML'.
+
+6. Respect User Preferences.
