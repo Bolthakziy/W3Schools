@@ -1,0 +1,6 @@
+#DiagramImg
+{
+	border:10px solid transparent;
+	padding:15px;
+	border-image:url(Diagrams.png) 75 round;
+}
