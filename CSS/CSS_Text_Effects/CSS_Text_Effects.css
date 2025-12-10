@@ -1,0 +1,17 @@
+p.kanin
+{
+	width:200px;
+	border:1px solid #000000;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:clip;
+}
+
+p.and
+{
+	width:200px;
+	border:1px solid #000000;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
