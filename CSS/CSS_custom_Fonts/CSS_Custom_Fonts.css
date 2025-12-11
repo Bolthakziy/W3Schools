@@ -1,0 +1,17 @@
+@font-face
+{
+	font-family:myFont;
+	src:url(sanction_bold.woff);
+	font-weight:bold;
+}
+
+@font-face
+{
+	font-family:myFont;
+	src:url(sanction_light.woff);
+}
+
+*
+{
+	font-family:myFont;
+}
