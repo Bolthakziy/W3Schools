@@ -1,0 +1,12 @@
+div
+{
+	width:150px;
+	height:150px;
+	background-color:yellow;
+	border:1px solid black;
+}
+
+#venner
+{
+	transform:rotate(90deg);
+}
