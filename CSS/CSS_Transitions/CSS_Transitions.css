@@ -1,0 +1,39 @@
+div
+{
+	width:100px;
+	height:100px;
+	transition:width 2s;
+}
+
+#Kanin
+{
+	background:yellow;
+	transition-timing-function:linear;
+}
+
+#Kanin:hover
+{
+	width:500px;
+}
+
+#And
+{
+	background:green;
+	transition-timing-function:ease;
+}
+
+#And:hover
+{
+	width:300px;
+}
+
+#Katt
+{
+	background:blue;
+	transition-timing-function:ease-in-out;
+}
+
+#Katt:hover
+{
+	width:250px;
+}
