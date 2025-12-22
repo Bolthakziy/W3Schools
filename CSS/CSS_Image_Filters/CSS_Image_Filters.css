@@ -1,0 +1,19 @@
+#img1
+{
+	filter:brightness(150%);
+}
+
+#img2
+{
+	filter:brightness(50%);
+}
+
+#img3
+{
+	filter:blur(2px);
+}
+
+#img4
+{
+	filter:blur(6px);
+}
