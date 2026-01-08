@@ -1,0 +1,27 @@
+*
+{
+	box-sizing:border-box;
+}
+
+.flex-container
+{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.flex-item
+{
+	background-color:lightgreen;
+	padding:10px;
+	text-align:center;
+	font-size:30px;
+	flex:45%;
+}
+
+@media (max-width:600px)
+{
+	.flex-item
+	{
+		flex:100%;
+	}
+}
