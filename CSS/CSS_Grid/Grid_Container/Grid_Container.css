@@ -1,0 +1,16 @@
+.container
+{
+	display:inline-grid;
+	grid-template-columns:auto auto auto;
+	background-color:lightgreen;
+	padding:10px;
+}
+
+.container div
+{
+	background-color:yellow;
+	border:1px solid black;
+	padding:20px;
+	font-size:30px;
+	text-align:center;
+}
