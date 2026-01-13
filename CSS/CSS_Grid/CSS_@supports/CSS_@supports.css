@@ -1,0 +1,22 @@
+.container
+{
+	float:left;
+	width:100%;
+}
+
+@supports (display:flex)
+{
+	.container
+	{
+		display:flex;
+		background-color:lightyellow;
+	}
+}
+
+.container > div
+{
+	background-color:#F1F1F1;
+	margin:10px;
+	padding:20px;
+	font-size:30px;
+}
