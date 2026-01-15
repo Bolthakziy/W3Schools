@@ -1,0 +1,5 @@
+1. Do not use large fixed-width elements.
+
+2. Do not let the content rely on a particular width to render well.
+
+3. Use 'CSS' media queries to apply different styling for small and large screens.
