@@ -1,0 +1,1 @@
+In Javascript, conditional statements resemble those in C!
