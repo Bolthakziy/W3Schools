@@ -1,0 +1,4 @@
+Javascript runs on a single thread.
+It can only do one thing at a time.
+Every task has to wait for the previous one to finish.
+Javascipt can also run code asynchronously.
