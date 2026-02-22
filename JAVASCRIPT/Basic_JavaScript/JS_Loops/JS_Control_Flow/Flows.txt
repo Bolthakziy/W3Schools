@@ -1,0 +1,19 @@
+1. Default Flow
+
+2. Conditional Control Flow
+    - if(else)
+    - switch
+    - ternary
+
+3. Loops
+    - for
+    - while
+    - do-while
+
+4. Jump Statements
+    - break
+    - continue
+    - return
+    - throw
+
+5. Function Flow
