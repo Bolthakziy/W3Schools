@@ -1,0 +1,9 @@
+1. Using the wrong month number because months start at number index '0'.
+
+2. Accidentially changing a date object by calling a mutating method.
+
+3. Parsing unclear strings that behave differently across environmentally.
+
+4. Mixing local time and UTC values in the same program.
+
+5. Doing math across DST changes and getting unexpected hours.
