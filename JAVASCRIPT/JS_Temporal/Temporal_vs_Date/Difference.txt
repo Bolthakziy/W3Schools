@@ -1,0 +1,9 @@
+1. Date months are 0-based, temporal months are 1-based.
+
+2. Date arithmetic is manual, temporal is built-in.
+
+3. Date mutates values, temporal does not.
+
+4. Date mixes UTC and time zones, temporal sperates them.
+
+5. Date can fail in DST handling, temporal can not.
