@@ -1,0 +1,9 @@
+1. Use the correct 'Temporal' type!
+
+2. Avoid implicit conversions!
+
+3. Handle 'Time Zones' correctly and always!
+
+4. Use 'compare()' instead of '<', '>'.
+
+5. 'Temporal' objects are immutable!
