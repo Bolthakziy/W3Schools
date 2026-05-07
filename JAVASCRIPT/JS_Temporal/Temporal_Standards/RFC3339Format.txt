@@ -1,0 +1,3 @@
+'RFC3339' is the Internet standard for Date and Time formats.
+
+It is a subset of 'ISO 8601' designed for use in Internet protocal.
