@@ -1,0 +1,4 @@
+ISO 8601 avoids confusion between regional formats like:
+
+  1. MM/DD/YYYY (US Format)
+  2. DD/MM/YYYY (European Format)
