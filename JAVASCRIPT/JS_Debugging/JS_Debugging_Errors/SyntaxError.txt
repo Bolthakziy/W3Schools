@@ -1,0 +1,3 @@
+A SyntaxError means 'JavaScript' cannot understand your code.
+
+This is often caused by missing brackets or parentheses.
