@@ -1,0 +1,3 @@
+A TypeError means you used a value in an invalid way.
+
+This usually happens with 'undefined' or 'null'.
