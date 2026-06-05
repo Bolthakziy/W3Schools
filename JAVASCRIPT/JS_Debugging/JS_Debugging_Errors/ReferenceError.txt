@@ -1,0 +1,3 @@
+A reference error means a variable or function name does not exist.
+
+This is often caused by a misspelling or a missing declaration.
