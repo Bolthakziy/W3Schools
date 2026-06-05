@@ -1,0 +1,3 @@
+'NaN' means 'Not a Number'.
+
+This happens when JavaScript cannot perform valid math.
