@@ -1,0 +1,3 @@
+'async' and 'await' make 'async' code easier to read. They are still asynchronous.
+
+You can set breakpoints on 'await' lines. Step through 'async' code the same way as normal code.
