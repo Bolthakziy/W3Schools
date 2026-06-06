@@ -1,0 +1,9 @@
+1. Check the console for errors.
+
+2. Check the Network tab.
+
+3. Log responses before using them.
+
+4. Use 'try ..... catch .....' with 'async' functions.
+
+5. Set breakpoints on 'await' lines.
