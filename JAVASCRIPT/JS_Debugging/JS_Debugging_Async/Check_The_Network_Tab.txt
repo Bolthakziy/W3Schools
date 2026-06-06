@@ -1,0 +1,6 @@
+'Async' bugs are often network problems. The network tab shows if a request failed.
+
+
+1. Check the request status.
+2. Check the file path.
+3. Check if the server returned an error.
