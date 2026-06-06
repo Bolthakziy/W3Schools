@@ -1,0 +1,3 @@
+'Async' errors must be handled explicitly. Otherwise they fail silently.
+
+Errors inside 'async' functions must be caught.
