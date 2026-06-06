@@ -1,0 +1,3 @@
+'Async' code runs later. This makes errors feel invisible. Common beginner problems include missing data and silent failure.
+
+Async code does not run top to bottom. It runs when something finishes.
