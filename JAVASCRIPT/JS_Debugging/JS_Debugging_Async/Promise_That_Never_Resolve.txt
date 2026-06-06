@@ -1,0 +1,5 @@
+Sometimes 'async' code never finishes. This usually means a missing 'return'.
+
+The promise result is never returned.
+
+Always 'return' promises when chaining.
