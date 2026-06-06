@@ -1,0 +1,3 @@
+The 'fetch()' function is asynchronous. It does not return data immediately.
+
+If nothing appears, check the console first. Always log the response before using the data.
