@@ -1,0 +1,4 @@
+The 'DOM API(Application Programming Interface)' is a set of 'Methods' and 'Properties' that allow 'JavaScript' to change the content, structure and style of any HTML elements.
+
+An API Method is an action that you can do on an HTML element.
+An API property is a value that you can access on an HTML element.
