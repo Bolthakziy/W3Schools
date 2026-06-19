@@ -1,0 +1,9 @@
+The 'DOM API' provides us with the ability to.
+
+
+
+1. Find and select elements.
+2. Change element content and attributes.
+3. Add, remove or modify elements.
+4. Change CSS styles.
+5. Add event listeners to react to user input.
