@@ -1,0 +1,21 @@
+An event handler is JavaScript code that runs when an event happens.
+
+Event Handlers can be used to handle and verify user input, user actions and browser actions.
+
+
+
+1. Things that should be done every time a page loads.
+2. Things that should be done when the page is closed.
+3. Action that should be performed when a user clicks a button.
+4. Content that should be verified when a user inputs data.
+
+
+
+Many different methods can be used to let JavaScript work with events.
+
+
+
+1. HTML event attributes can execute JavaScript code directly.
+2. HTML event attributes can call JavaScript functions.
+3. You can assign your own event handler functions to HTML elements.
+4. You can prevent events from being sent or being handled.
