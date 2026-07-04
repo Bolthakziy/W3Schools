@@ -1,0 +1,4 @@
+Users browse the web with different devices, browsers and Internet speeds.
+Some users may disable JavaScript completely.
+Others may use older browsers or assistive technologies.
+Progressive enhancement helps ensure that everybody can still access the content.
