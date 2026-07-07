@@ -1,0 +1,1 @@
+This folder is best to understrand JavaScript's basic functions. 
