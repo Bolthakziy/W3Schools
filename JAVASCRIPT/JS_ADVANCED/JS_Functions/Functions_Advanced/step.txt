@@ -1,0 +1,9 @@
+1. JavaScript Definitions
+2. JavaScript Callbacks
+3. The 'this' keyword
+4. The 'call' method
+5. The 'apply' method
+6. The 'bind' method
+7. Self-Invoked-IIFE
+8. JavaScript Closures
+9. Function References
