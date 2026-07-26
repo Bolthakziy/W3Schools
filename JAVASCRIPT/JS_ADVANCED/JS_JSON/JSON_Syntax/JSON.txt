@@ -1,0 +1,10 @@
+'JSON' has a very simple syntax for representing structured data.
+One 'JSON' document consists of one 'JSON' value.
+
+The value can be :
+1. An Object
+2. An Array
+3. A string
+4. A Number
+5. A boolean
+6. Or null
