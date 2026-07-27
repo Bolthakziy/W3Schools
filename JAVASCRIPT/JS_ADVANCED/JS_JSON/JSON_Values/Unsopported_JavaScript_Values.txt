@@ -1,0 +1,7 @@
+1. Function
+2. Date
+3. Symbol
+4. BigInt
+5. NaN
+6. Infinity
+7. undefined
