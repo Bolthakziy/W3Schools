@@ -1,0 +1,17 @@
+[
+	{
+		"id" :	1,
+		"name" : "Ana",
+		"country" : "Macao, China"
+	},
+	{
+		"id" : 2,
+		"name" : "Nadia",
+		"country": "Timor-Leste"
+	},
+	{
+		"id" : 3,
+		"name" : "Arthur",
+		"country" : "Brasil"
+	}
+]
