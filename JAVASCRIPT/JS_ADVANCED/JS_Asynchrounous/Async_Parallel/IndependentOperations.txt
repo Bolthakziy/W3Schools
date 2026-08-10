@@ -1,0 +1,1 @@
+If asynchronous operations are independent, they can start at the same time. This is called running tasks in parallel.
