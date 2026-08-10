@@ -1,0 +1,4 @@
+When each operation depends on the previous one, use multiple 'await' statements.
+
+'response.json()' is a built-in method of the Fetch API.
+It reads a raw 'HTTP' response stream, parses the JSON text and resolves as a completed JavaScript object or array that you can actually use in your code.
