@@ -1,0 +1,7 @@
+1. Understand what your asynchronous API returns.
+2. Remember that 'fetch()' returns a 'Promise'.
+3. Use 'await' correctly.
+4. Check for 'HTTP' errors.
+5. Do not block the 'Event' loop.
+6. Run independent tasks in parallel.
+7. Always handle errors.
