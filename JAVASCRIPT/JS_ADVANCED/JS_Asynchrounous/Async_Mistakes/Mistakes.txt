@@ -1,0 +1,14 @@
+Most common mistakes.
+
+
+
+1. Forgetting 'await'.
+2. Using 'await' outside an 'Async' function.
+3. Assuming 'fetch()' fails on HTTP errors.
+4. Thinking 'callbacks' are asynchronous.
+5. Blocking the event loop.
+6. Expecting screen updates immediately.
+7. Running independent tasks one after another.
+8. Using 'await' inside 'foreach()'.
+9. Forgetting Error handling.
+10. Thinking 'setTimeout' runs immediately.
