@@ -1,0 +1,7 @@
+Asynchronous programming introduces new concepts.
+
+
+
+1. Callbacks
+2. Promisses
+3. async/await
