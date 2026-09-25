@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<script src="https://www.gstatic.com/charts/loader.js"></script>
+	<head>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<div "coelho" style="width:100%; max-width:600px; height:500px;"></div>
+		<script>
+			google.charts.load('current', {'packages':['corechart']});
+			google.charts.setOnLoadCallack(drawChart);
+
+			function drawChart() {
+				const data = google.visualization.arrayToDataTable([
+					['Amigos', 'Score'],
+					['Alexandre', 98.5],
+					['Iria', 35.4],
+					['Henrique', 55.8],
+					['Fernando', 36.2]
+				]);
+
+				const options = {
+					title:"Os meus Amigos!",
+					is3D:true
+				};
+
+				const chart = new google.visualization.PieChart(docuemnt.getElementById("coelho"));
+				chart.draw(data, options);
+			}
+		</script>
+	</body>
+</html>
